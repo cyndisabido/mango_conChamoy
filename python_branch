@@ -1,0 +1,8 @@
+#this is a test for github- creating this file in child branch
+import matplotlib.pyplot as plt
+
+plt.bar(['cafe','latte','tea'],[3,1,1],color=('m','y','b'))
+plt.xlabel('Bebidas Calientes')
+plt.ylabel('Tazas al dia')
+plt.title('Bebdias calientes consumidas por dia')
+plt.show()
